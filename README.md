@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SUBHAMDXD/NovoCode/tree/master/0085-maximal-rectangle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SUBHAMDXD/NovoCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SUBHAMDXD/NovoCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SUBHAMDXD/NovoCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SUBHAMDXD/NovoCode/tree/master/0085-maximal-rectangle) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SUBHAMDXD/NovoCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SUBHAMDXD/NovoCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## String
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SUBHAMDXD/NovoCode/tree/master/0085-maximal-rectangle) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SUBHAMDXD/NovoCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
@@ -64,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SUBHAMDXD/NovoCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/SUBHAMDXD/NovoCode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/SUBHAMDXD/NovoCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
