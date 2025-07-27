@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SUBHAMDXD/NovoCode/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SUBHAMDXD/NovoCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1170-shortest-common-supersequence](https://github.com/SUBHAMDXD/NovoCode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SUBHAMDXD/NovoCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SUBHAMDXD/NovoCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SUBHAMDXD/NovoCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SUBHAMDXD/NovoCode/tree/master/0013-roman-to-integer) |
+| [1170-shortest-common-supersequence](https://github.com/SUBHAMDXD/NovoCode/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SUBHAMDXD/NovoCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SUBHAMDXD/NovoCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SUBHAMDXD/NovoCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
