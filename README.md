@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SUBHAMDXD/NovoCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBHAMDXD/NovoCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SUBHAMDXD/NovoCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SUBHAMDXD/NovoCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SUBHAMDXD/NovoCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SUBHAMDXD/NovoCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SUBHAMDXD/NovoCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SUBHAMDXD/NovoCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SUBHAMDXD/NovoCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SUBHAMDXD/NovoCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/SUBHAMDXD/NovoCode/tree/master/1813-maximum-erasure-value) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SUBHAMDXD/NovoCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Math
 |  |
 | ------- |
