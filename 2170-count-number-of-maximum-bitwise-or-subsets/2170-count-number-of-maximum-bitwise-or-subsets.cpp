@@ -1,57 +1,65 @@
 #include <vector>
-#include <numeric>
-#include <algorithm>
+#include <numeric> // For std::accumulate (not directly used here but good to include)
+#include <algorithm> // For std::max (not directly used here but good to include)
 
+// Using a class structure as required by LeetCode
 class Solution {
-public:
-    int max_or_val;
-    int count;
-    std::vector<int> nums_arr;
-    int n;
+private:
+    int max_or_val;       // Stores the maximum possible bitwise OR
+    int count;            // Stores the number of subsets with max_or_val
+    std::vector<int> nums_arr; // Stores the input array for easy access in DFS
+    int n;                // Stores the size of the input array
 
+    // Recursive DFS function to explore subsets
+    // index: current position in nums_arr being considered
+    // current_or: bitwise OR of elements chosen so far in the current subset
     void dfs(int index, int current_or) {
-        // Base case: If we have processed all elements
+        // Optimization: If the current_or already matches the maximum possible OR,
+        // then any combination of the remaining elements (from 'index' to 'n-1')
+        // will also result in 'max_or_val' when OR-ed with 'current_or'.
+        // There are 2^(n - index) such combinations.
+        if (current_or == max_or_val) {
+            count += (1 << (n - index)); // Add 2^(number of remaining elements)
+            return; // Prune this branch, no need to explore further
+        }
+
+        // Base Case: If we have processed all elements
         if (index == n) {
-            // Check if this subset's OR matches the maximum OR
-            // We only count non-empty subsets implicitly by how we start the DFS or manage current_or.
-            // A more robust way: if current_or is not 0 (meaning something was included) and it matches max_or.
-            // However, the problem implies we are always looking for a subset whose OR is max_or.
-            // The initial call will handle the empty set implicitly by not adding it to count.
-            if (current_or == max_or_val) {
-                count++;
-            }
+            // If current_or did not match max_or_val, this branch doesn't contribute.
             return;
         }
 
-        // Option 1: Include nums[index] in the current subset
+        // Recursive Step 1: Include nums_arr[index] in the current subset
+        // Explore the next element with the updated bitwise OR
         dfs(index + 1, current_or | nums_arr[index]);
 
-        // Option 2: Exclude nums[index] from the current subset
+        // Recursive Step 2: Exclude nums_arr[index] from the current subset
+        // Explore the next element with the current bitwise OR unchanged
         dfs(index + 1, current_or);
     }
 
+public:
     int countMaxOrSubsets(std::vector<int>& nums) {
-        nums_arr = nums;
+        // Initialize member variables
+        nums_arr = nums; // Copy the input vector
         n = nums.size();
         max_or_val = 0;
         count = 0;
 
-        // Step 1: Find the maximum possible bitwise OR
-        for (int num : nums) {
+        // Step 1: Calculate the maximum possible bitwise OR.
+        // This is simply the OR of all elements in the array.
+        // Any subset's OR cannot exceed this value.
+        for (int num : nums_arr) {
             max_or_val |= num;
         }
 
-        // Step 2: Use DFS to count subsets.
-        // We start with index 0 and initial_or 0.
-        // The DFS will explore all 2^N subsets.
+        // Step 2: Start the Depth-First Search (DFS) from the first element (index 0)
+        // with an initial bitwise OR of 0 (representing an empty subset initially).
         dfs(0, 0);
 
-        // The DFS counts all subsets including the empty set if max_or_val is 0.
-        // However, max_or_val >= 1 since nums[i] >= 1.
-        // If the empty set was somehow counted (it would have OR of 0),
-        // and max_or_val was 0, it would be included.
-        // Since max_or_val will always be >= 1 (as nums[i] >= 1), the empty set (OR = 0)
-        // will never match max_or_val. So, the count will correctly reflect non-empty subsets.
+        // The DFS logic correctly accounts for non-empty subsets.
+        // An empty subset has an OR of 0. Since nums[i] >= 1, max_or_val will always be >= 1.
+        // Therefore, the empty set will never be counted as its OR (0) will not match max_or_val.
         return count;
     }
 };
