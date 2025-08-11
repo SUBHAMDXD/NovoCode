@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SUBHAMDXD/NovoCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SUBHAMDXD/NovoCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBHAMDXD/NovoCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2529-range-product-queries-of-powers](https://github.com/SUBHAMDXD/NovoCode/tree/master/2529-range-product-queries-of-powers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SUBHAMDXD/NovoCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SUBHAMDXD/NovoCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SUBHAMDXD/NovoCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -128,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SUBHAMDXD/NovoCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBHAMDXD/NovoCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2529-range-product-queries-of-powers](https://github.com/SUBHAMDXD/NovoCode/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SUBHAMDXD/NovoCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2529-range-product-queries-of-powers](https://github.com/SUBHAMDXD/NovoCode/tree/master/2529-range-product-queries-of-powers) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SUBHAMDXD/NovoCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Segment Tree
 |  |
