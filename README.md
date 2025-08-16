@@ -125,10 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SUBHAMDXD/NovoCode/tree/master/0013-roman-to-integer) |
+| [0342-power-of-four](https://github.com/SUBHAMDXD/NovoCode/tree/master/0342-power-of-four) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SUBHAMDXD/NovoCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/SUBHAMDXD/NovoCode/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SUBHAMDXD/NovoCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBHAMDXD/NovoCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2529-range-product-queries-of-powers](https://github.com/SUBHAMDXD/NovoCode/tree/master/2529-range-product-queries-of-powers) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SUBHAMDXD/NovoCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SUBHAMDXD/NovoCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/SUBHAMDXD/NovoCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
