@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/SUBHAMDXD/NovoCode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SUBHAMDXD/NovoCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SUBHAMDXD/NovoCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SUBHAMDXD/NovoCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/SUBHAMDXD/NovoCode/tree/master/0013-roman-to-integer) |
 | [0342-power-of-four](https://github.com/SUBHAMDXD/NovoCode/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/SUBHAMDXD/NovoCode/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SUBHAMDXD/NovoCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Bit Manipulation
 |  |
