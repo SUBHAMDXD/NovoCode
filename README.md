@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/SUBHAMDXD/NovoCode/tree/master/0085-maximal-rectangle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SUBHAMDXD/NovoCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SUBHAMDXD/NovoCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/SUBHAMDXD/NovoCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SUBHAMDXD/NovoCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1813-maximum-erasure-value](https://github.com/SUBHAMDXD/NovoCode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SUBHAMDXD/NovoCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/SUBHAMDXD/NovoCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/SUBHAMDXD/NovoCode/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SUBHAMDXD/NovoCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/SUBHAMDXD/NovoCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SUBHAMDXD/NovoCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SUBHAMDXD/NovoCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/SUBHAMDXD/NovoCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SUBHAMDXD/NovoCode/tree/master/0085-maximal-rectangle) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SUBHAMDXD/NovoCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1628-count-submatrices-with-all-ones](https://github.com/SUBHAMDXD/NovoCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SUBHAMDXD/NovoCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SUBHAMDXD/NovoCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
@@ -112,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SUBHAMDXD/NovoCode/tree/master/0085-maximal-rectangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SUBHAMDXD/NovoCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/SUBHAMDXD/NovoCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SUBHAMDXD/NovoCode/tree/master/0085-maximal-rectangle) |
+| [1628-count-submatrices-with-all-ones](https://github.com/SUBHAMDXD/NovoCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Hash Function
 |  |
 | ------- |
