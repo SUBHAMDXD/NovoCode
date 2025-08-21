@@ -162,5 +162,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/SUBHAMDXD/NovoCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0342-power-of-four](https://github.com/SUBHAMDXD/NovoCode/tree/master/0342-power-of-four) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/SUBHAMDXD/NovoCode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
