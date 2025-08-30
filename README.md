@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SUBHAMDXD/NovoCode/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/SUBHAMDXD/NovoCode/tree/master/0085-maximal-rectangle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SUBHAMDXD/NovoCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SUBHAMDXD/NovoCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SUBHAMDXD/NovoCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/SUBHAMDXD/NovoCode/tree/master/0036-valid-sudoku) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SUBHAMDXD/NovoCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1813-maximum-erasure-value](https://github.com/SUBHAMDXD/NovoCode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SUBHAMDXD/NovoCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SUBHAMDXD/NovoCode/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/SUBHAMDXD/NovoCode/tree/master/0085-maximal-rectangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SUBHAMDXD/NovoCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SUBHAMDXD/NovoCode/tree/master/1628-count-submatrices-with-all-ones) |
