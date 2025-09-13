@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/SUBHAMDXD/NovoCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SUBHAMDXD/NovoCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SUBHAMDXD/NovoCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/SUBHAMDXD/NovoCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/SUBHAMDXD/NovoCode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SUBHAMDXD/NovoCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SUBHAMDXD/NovoCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/SUBHAMDXD/NovoCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/SUBHAMDXD/NovoCode/tree/master/0025-reverse-nodes-in-k-group) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/SUBHAMDXD/NovoCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
