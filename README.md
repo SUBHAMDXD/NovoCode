@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBHAMDXD/NovoCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2529-range-product-queries-of-powers](https://github.com/SUBHAMDXD/NovoCode/tree/master/2529-range-product-queries-of-powers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SUBHAMDXD/NovoCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SUBHAMDXD/NovoCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SUBHAMDXD/NovoCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SUBHAMDXD/NovoCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SUBHAMDXD/NovoCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SUBHAMDXD/NovoCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1813-maximum-erasure-value](https://github.com/SUBHAMDXD/NovoCode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SUBHAMDXD/NovoCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SUBHAMDXD/NovoCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SUBHAMDXD/NovoCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SUBHAMDXD/NovoCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/SUBHAMDXD/NovoCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SUBHAMDXD/NovoCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
 |  |
 | ------- |
