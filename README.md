@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SUBHAMDXD/NovoCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SUBHAMDXD/NovoCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SUBHAMDXD/NovoCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/SUBHAMDXD/NovoCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SUBHAMDXD/NovoCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SUBHAMDXD/NovoCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SUBHAMDXD/NovoCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SUBHAMDXD/NovoCode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/SUBHAMDXD/NovoCode/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SUBHAMDXD/NovoCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/SUBHAMDXD/NovoCode/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Bit Manipulation
 |  |
 | ------- |
