@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/SUBHAMDXD/NovoCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SUBHAMDXD/NovoCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1813-maximum-erasure-value](https://github.com/SUBHAMDXD/NovoCode/tree/master/1813-maximum-erasure-value) |
+| [1975-maximum-matrix-sum](https://github.com/SUBHAMDXD/NovoCode/tree/master/1975-maximum-matrix-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SUBHAMDXD/NovoCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SUBHAMDXD/NovoCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SUBHAMDXD/NovoCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1448-maximum-69-number](https://github.com/SUBHAMDXD/NovoCode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SUBHAMDXD/NovoCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1975-maximum-matrix-sum](https://github.com/SUBHAMDXD/NovoCode/tree/master/1975-maximum-matrix-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SUBHAMDXD/NovoCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SUBHAMDXD/NovoCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SUBHAMDXD/NovoCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/SUBHAMDXD/NovoCode/tree/master/0085-maximal-rectangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SUBHAMDXD/NovoCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SUBHAMDXD/NovoCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1975-maximum-matrix-sum](https://github.com/SUBHAMDXD/NovoCode/tree/master/1975-maximum-matrix-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
